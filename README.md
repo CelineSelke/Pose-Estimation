@@ -10,7 +10,7 @@ Downloaded contents should be placed in a folder named coco2014 one level above 
 - Annotations in a folder named "annotations"
 
 ## Required Packages and Libraries 
-Pose estimation module using the [MoveNet Lightning Model](https://www.kaggle.com/models/google/movenet/tensorFlow2/singlepose-lightning)
+Pose estimation module using the [MoveNet Lightning Model](https://www.kaggle.com/models/google/movenet/tensorFlow2/singlepose-lightning) (Does Not Require Download, Loaded In Program)
 - TensorFlow for manipulation of model's input tensors (pip/conda install tensorflow)
 - TensorFlow hub to import model (pip/conda install tensorflow-hub)
 - NumPy (pip/conda install numpy)
