@@ -1,6 +1,9 @@
 # IMPROVING TWO-DIMENSIONAL (2D) HUMAN POSE ESTIMATION USING HISTOGRAM EQUALIZATION
 ## Dataset 
 [2014 COCO Dataset](https://cocodataset.org/#download)
+### Required Downloads
+- [2014 Training Images](http://images.cocodataset.org/zips/train2014.zip)
+- [2014 Training/Validation Annotations](http://images.cocodataset.org/annotations/annotations_trainval2014.zip)
 
 Downloaded contents should be placed in a folder named coco2014 one level above the Pose Estimation directory containing 
 - Images in a folder named "images"
