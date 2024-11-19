@@ -14,6 +14,7 @@ Pose estimation module using the [MoveNet Lightning Model](https://www.kaggle.co
 - TensorFlow for manipulation of model's input tensors (pip/conda install tensorflow)
 - TensorFlow hub to import model (pip/conda install tensorflow-hub)
 - NumPy (pip/conda install numpy)
+- Matplotlib for Histogram Visualization (pip/conda install matplotlib)
 - OpenCV for image manipulation and processing (pip/conda install opencv-python)
 - PyCOCOTools for loading COCO dataset from annotation file and for loading images (pip/conda install pycocotools)
 - COCOEval for evaluation of predicted keypoints (pip/conda install cocoeval)
