@@ -1,5 +1,8 @@
 # IMPROVING TWO-DIMENSIONAL (2D) HUMAN POSE ESTIMATION USING HISTOGRAM EQUALIZATION
 Celine Selke, Fiyinfoluwa Dideoluwa, Nevaeh Hull
+
+[Demo](https://youtu.be/QHNe7g0Z98U) 
+
 ## Dataset 
 [2014 COCO Dataset](https://cocodataset.org/#download)
 ### Required Downloads
